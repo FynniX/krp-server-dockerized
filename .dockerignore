@@ -1,0 +1,6 @@
+# Repository files
+.git
+.github
+
+# Build files
+Dockerfile
