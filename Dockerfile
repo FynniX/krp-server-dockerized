@@ -1,7 +1,7 @@
 ######## INSTALL ########
 
 # Set the base image
-FROM mcr.microsoft.com/windows:1909
+FROM mcr.microsoft.com/windows
 
 # Set alternative shell
 SHELL ["powershell"]
